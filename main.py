@@ -74,7 +74,7 @@ hypertensionhalf = joblib.load(r'models/hypertensionhalf.pkl')
 hearthalf = joblib.load(r'models/hearthalf.pkl')
 heartfull = joblib.load(r'models/heartfull.pkl')
 brainTumor = tf.keras.models.load_model('models/tumor.h5')
-skin = tf.keras.models.load_model('models/skin.h5')
+skin = tf.keras.models.load_model('models/Skin.h5')
 chestCancer = tf.keras.models.load_model('models/ChestCancer.h5')
 breastCancer = tf.keras.models.load_model('models/BreastCancer.h5')
 
