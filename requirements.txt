@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pandas==2.2.3
+numpy==2.0.2
+pillow==11.0.0
+tensorflow==2.18.0
+firebase_admin==6.6.0
+joblib==1.4.2
+langchain-groq==0.2.1
+python-dotenv==1.0.1
